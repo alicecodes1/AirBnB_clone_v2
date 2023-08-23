@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This is the file storage class for AirBnB"""
+"""This is the file storage class for AirBnB..."""
 
 from models.base_model import Base
 from models.user import User
